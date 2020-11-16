@@ -94,3 +94,10 @@ footer {
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
 }
+
+.about {
+  margin: auto;
+  padding: 200px 0;
+  font-size: 2rem;
+  text-align: center;
+}
